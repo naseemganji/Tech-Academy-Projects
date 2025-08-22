@@ -1,1 +1,1 @@
-echo This is my VCCourse Challenge 2 submission  
+This is my VCCourse Challenge 2 submission  
